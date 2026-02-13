@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "경조사비",
+    "slug": "event-gift-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic"
+  }
+}
